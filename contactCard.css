@@ -1,0 +1,15 @@
+#wrapper{
+    height: 100%;
+    width: 100%;
+    display: flex;
+}
+#input{
+    height: 100%;
+    width: 50%
+}
+#outputBoxes{
+    height: 100%;
+    width: 50%;
+    border-style: groove;
+    text-align: center;
+}
